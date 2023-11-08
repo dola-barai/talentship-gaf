@@ -14,20 +14,20 @@ const HowWeWork = () => {
                         Don’t be busy – be productive!
                     </div>
                 </div>
-                <div className='mt-[99px] mx-3'>
-                    <div className='grid grid-cols-1 md:grid-cols-3 gap-4'>
-                        <div className='bg-white w-[434px] h-[434px] rounded-[21px] '>
+                <div className='mt-[99px] mx-[51px]'>
+                    <div className='grid grid-cols-1 md:grid-cols-3'>
+                        <div className='bg-white w-[434px] h-[434px] rounded-[21px]  mr-[15px] mb-[25px]'>
                             <div className='w-[111px] h-[113px] mt-[6px] ms-[21px] number'>
                                 01
                             </div>
-                            <div className='w-[152px] h-[42px] mt-[10px] ms-[20px] topic'>
+                            <div className='w-[152px] h-[42px] mt-[10px] ms-[20px] topic '>
                                 Research
                             </div>
                             <div className='w-[393px] h-[112px] mt-[50px] ms-[21px] info'>
                                 Glavrida ipsum – augue bibendum, faucibus mi et, scelerisque mauris. Aenean dapibus massa a sapien hendrerit.
                             </div>
                         </div>
-                        <div className='bg-white w-[434px] h-[434px] rounded-[21px]'>
+                        <div className='bg-white w-[434px] h-[434px] rounded-[21px]  mr-[21px] mb-[25px]'>
                             <div className='w-[111px] h-[113px] mt-[6px] ms-[21px] number'>
                                 02
                             </div>
@@ -38,13 +38,13 @@ const HowWeWork = () => {
                                 Glavrida ipsum – augue bibendum, faucibus mi et, scelerisque mauris. Aenean dapibus massa a sapien hendrerit.
                             </div>
                         </div>
-                        <div className=''>
+                        <div className='mb-[25px]'>
                             <img className='w-[434px] h-[434px] rounded-[21px] ' src={image1} alt="" />
                         </div>
                         <div className=''>
                             <img className='w-[434px] h-[434px] rounded-[21px] ' src={image2} alt="" />
                         </div>
-                        <div className='bg-white w-[434px] h-[434px] rounded-[21px]'>
+                        <div className='bg-white w-[434px] h-[434px] rounded-[21px]  mr-[15px]'>
                             <div className='w-[111px] h-[113px] mt-[6px] ms-[21px] number'>
                                 03
                             </div>
@@ -55,7 +55,7 @@ const HowWeWork = () => {
                                 Glavrida ipsum – augue bibendum, faucibus mi et, scelerisque mauris. Aenean dapibus massa a sapien hendrerit.
                             </div>
                         </div>
-                        <div className='bg-white w-[434px] h-[434px] rounded-[21px]'>
+                        <div className='bg-white w-[434px] h-[434px] rounded-[21px]  mr-[21px]'>
                             <div className='w-[111px] h-[113px] mt-[6px] ms-[21px] number'>
                                 04
                             </div>

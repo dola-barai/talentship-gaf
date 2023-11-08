@@ -3,12 +3,12 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 
 import reportWebVitals from './reportWebVitals';
-import HowWeWork from './HowWeWork/HowWeWork';
+import RouteApp from './Route/RouteApp';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <HowWeWork></HowWeWork>
+    <RouteApp></RouteApp>
   </React.StrictMode>
 );
 
