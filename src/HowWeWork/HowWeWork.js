@@ -15,7 +15,7 @@ const HowWeWork = () => {
                     </div>
                 </div>
                 <div className='mt-[99px] mx-[51px]'>
-                    <div className='grid grid-cols-1 md:grid-cols-3'>
+                    <div className='grid grid-cols-3'>
                         <div className='bg-white w-[434px] h-[434px] rounded-[21px]  mr-[15px] mb-[25px]'>
                             <div className='w-[111px] h-[113px] mt-[6px] ms-[21px] number'>
                                 01
