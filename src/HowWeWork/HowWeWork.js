@@ -4,8 +4,8 @@ import image1 from '../../src/image1.jpg'
 import image2 from '../../src/image2.jpg'
 const HowWeWork = () => {
     return (
-        <div className='bg-teal-200'>
-            <div className='py-10'>
+        <div className='bg-gradient-to-b from-teal-200 to-teal-300'>
+            <div className='py-[112px]'>
                 <div>
                     <div className='title font-sans'>
                         How We Work

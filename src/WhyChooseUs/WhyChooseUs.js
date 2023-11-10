@@ -9,7 +9,7 @@ import PaidIcon from '@mui/icons-material/Paid';
 
 const WhyChooseUs = () => {
     return (
-        <div className='bg-teal-200'>
+        <div className='bg-gradient-to-b from-white to-teal-100'>
             <div className='py-10'>
                 <div className='title font-sans'>
                     Why to choose us
