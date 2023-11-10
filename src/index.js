@@ -4,11 +4,16 @@ import './index.css';
 
 import reportWebVitals from './reportWebVitals';
 import RouteApp from './Route/RouteApp';
+import { ThemeProvider } from "@material-tailwind/react";
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <RouteApp></RouteApp>
+    <div className='w-[1461px]'>
+      <ThemeProvider>
+        <RouteApp></RouteApp>
+      </ThemeProvider>
+    </div>
   </React.StrictMode>
 );
 
