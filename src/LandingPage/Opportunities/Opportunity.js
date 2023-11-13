@@ -1,8 +1,8 @@
 import React from 'react'
-import work1 from '../assets/work1.jpg'
-import work2 from '../assets/work2.jpg'
-import work3 from '../assets/work3.jpg'
-import work4 from '../assets/work 4.jpg'
+import work1 from '../../assets/work1.jpg'
+import work2 from '../../assets/work2.jpg'
+import work3 from '../../assets/work3.jpg'
+import work4 from '../../assets/work4.jpg'
 
 
 function Opportunity() {

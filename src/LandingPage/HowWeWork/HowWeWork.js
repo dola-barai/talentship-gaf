@@ -1,7 +1,7 @@
 import React from 'react';
 import './Work.css';
-import image1 from '../../src/image1.jpg'
-import image2 from '../../src/image2.jpg'
+import image1 from '../../../src/image1.jpg'
+import image2 from '../../../src/image2.jpg'
 const HowWeWork = () => {
     return (
         <div className='bg-gradient-to-b from-teal-200 to-teal-300'>

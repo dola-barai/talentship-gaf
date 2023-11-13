@@ -1,8 +1,8 @@
 import React from 'react';
-import WhyChooseUs from '../WhyChooseUs/WhyChooseUs';
-import HowWeWork from '../HowWeWork/HowWeWork';
-import Associate from '../Opportunities/Associate';
-import Opportunity from '../Opportunities/Opportunity';
+import WhyChooseUs from './WhyChooseUs/WhyChooseUs';
+import HowWeWork from './HowWeWork/HowWeWork';
+import Associate from './Opportunities/Associate';
+import Opportunity from './Opportunities/Opportunity';
 
 
 const LandingPage = () => {
