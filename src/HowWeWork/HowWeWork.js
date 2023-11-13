@@ -16,7 +16,7 @@ const HowWeWork = () => {
                 </div>
                 <div className='mt-[99px] mx-[51px]'>
                     <div className='grid grid-cols-3'>
-                        <div className='bg-white w-[434px] h-[434px] rounded-[21px]  mr-[15px] mb-[25px]'>
+                        <div className='bg-white w-[434px] h-[434px] rounded-[21px]  me-[15px] mb-[25px]'>
                             <div className='w-[111px] h-[113px] mt-[6px] ms-[21px] number'>
                                 01
                             </div>
@@ -27,7 +27,7 @@ const HowWeWork = () => {
                                 Glavrida ipsum – augue bibendum, faucibus mi et, scelerisque mauris. Aenean dapibus massa a sapien hendrerit.
                             </div>
                         </div>
-                        <div className='bg-white w-[434px] h-[434px] rounded-[21px]  mr-[21px] mb-[25px]'>
+                        <div className='bg-white w-[434px] h-[434px] rounded-[21px]  me-[21px] mb-[25px]'>
                             <div className='w-[111px] h-[113px] mt-[6px] ms-[21px] number'>
                                 02
                             </div>
@@ -44,7 +44,7 @@ const HowWeWork = () => {
                         <div className=''>
                             <img className='w-[434px] h-[434px] rounded-[21px] ' src={image2} alt="" />
                         </div>
-                        <div className='bg-white w-[434px] h-[434px] rounded-[21px]  mr-[15px]'>
+                        <div className='bg-white w-[434px] h-[434px] rounded-[21px]  me-[15px]'>
                             <div className='w-[111px] h-[113px] mt-[6px] ms-[21px] number'>
                                 03
                             </div>
@@ -55,7 +55,7 @@ const HowWeWork = () => {
                                 Glavrida ipsum – augue bibendum, faucibus mi et, scelerisque mauris. Aenean dapibus massa a sapien hendrerit.
                             </div>
                         </div>
-                        <div className='bg-white w-[434px] h-[434px] rounded-[21px]  mr-[21px]'>
+                        <div className='bg-white w-[434px] h-[434px] rounded-[21px]  me-[21px]'>
                             <div className='w-[111px] h-[113px] mt-[6px] ms-[21px] number'>
                                 04
                             </div>
