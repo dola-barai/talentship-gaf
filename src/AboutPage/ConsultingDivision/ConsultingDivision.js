@@ -12,7 +12,7 @@ const ConsultingDivision = () => {
                     <div className='mt-[37px] division_desc ms-[81px]'>
                         Our Consulting Division is at the heart of our operations. It focuses on providing specialized business advisory services that encompass business strategy, financial consultation, and regulatory guidance. Within this division, a consortium of teams caters to specific client needs and collaborates to create comprehensive solutions tailored to each client's unique requirements.
                     </div>
-                    <div className='text-center mt-[123px]'>
+                    <div className='text-center mt-[100px]'>
                         <button className="btn btn-sm bg-[#005CE6] w-[183px] h-[52px]  text-white hover:text-blue-700 rounded-[7px]">CONTACT</button>
                     </div>
                 </div>
