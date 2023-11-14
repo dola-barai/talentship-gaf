@@ -4,7 +4,7 @@ import './Mission.css';
 const Mission = () => {
     return (
         <div>
-            <div className='w-[783px] h-[82px] bg-black rounded-[15px] mx-auto absolute inset-x-0 top-[370px]'>
+            <div className='w-[783px] h-[82px] bg-black rounded-[15px] mx-auto absolute inset-x-0 top-[375px]'>
                 <div className='grid grid-cols-3 gap-6 text-center py-6 px-[20px]'>
                     <div className='tab font-sans w-[176px] rounded-2xl hover:bg-blue-600 '>
                         Mission
@@ -26,7 +26,7 @@ const Mission = () => {
                         <div className='division_title mb-6'>
                             Mission
                         </div>
-                        <div className='division_desc '>
+                        <div className='mission_desc '>
                             Talentship Global Advisory Forum is dedicated to extending a helping hand to all, with a resolute mission to provide free advisory services to individuals and businesses, irrespective of financial constraints. Our unwavering commitment is rooted in the belief that everyone, regardless of their economic circumstances, deserves access to professional guidance and resources that can empower talents, enable transformation, and drive universal prosperity.
                         </div>
                     </div>
