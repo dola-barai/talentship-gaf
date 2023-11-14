@@ -1,0 +1,24 @@
+.division_title {
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 37.5px;
+    text-align: justify;
+    color: #000000;
+}
+
+.division_desc {
+    font-weight: 400;
+    font-size: 23.67px;
+    line-height: 27.74px;
+    text-align: justify;
+    color: #000000;
+    text-indent: 100px;
+}
+
+.tab{
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 28.13px;
+    text-align: justify;
+    color: #FFFFFF;
+}
