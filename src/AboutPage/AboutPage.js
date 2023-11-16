@@ -6,6 +6,7 @@ import HumanDivision from './HumanDivision/HumanDivision';
 import ITDivision from './ITDivision/ITDivision';
 import RegulatoryDivision from './RegulatoryDivision/RegulatoryDivision';
 import OperationDivision from './OperationDivision/OperationDivision';
+import Testimonial from './Testimonials/Testimonial';
 
 const AboutPage = () => {
     return (
@@ -17,6 +18,7 @@ const AboutPage = () => {
             <RegulatoryDivision></RegulatoryDivision>
             <OperationDivision></OperationDivision>
             <HumanDivision></HumanDivision>
+            <Testimonial></Testimonial>
         </div>
     );
 };
